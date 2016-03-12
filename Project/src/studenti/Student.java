@@ -4,6 +4,7 @@ public class Student {
 
 	private String name;
 	private String index;
+	private int brojPolozenihIspita;
 
 	public String getName() {
 		return name;
